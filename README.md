@@ -2,6 +2,10 @@
 
 A serverless data pipeline and analytics dashboard built with Python and AWS. Ingests NYC Taxi trip data, transforms it into Parquet format, stores it in S3, queries it via Athena, and visualizes it in a Streamlit dashboard.
 
+## Preview
+
+![Dashboard Preview](assets/dashboard-preview.png)
+
 ## Architecture
 
 ```
